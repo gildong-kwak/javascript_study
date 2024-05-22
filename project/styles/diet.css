@@ -1,5 +1,7 @@
 /* 디자인은 심미적으로 자유롭게! */
-main {}
+main {
+    background-image: url(https://i.pinimg.com/564x/2f/75/16/2f75167aeb437e7cbaf23c9d1ca99c97.jpg);
+}
 main h1 {}
 main p {}
 main ul {}
